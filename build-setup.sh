@@ -29,9 +29,10 @@ git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_dat
 git clone https://github.com/TRINKET-ANDROID/platform_packages_apps_FMRadio.git -b 10.0 packages/apps/FMRadio
 git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_fm-commonsys.git -b 10.0 vendor/qcom/opensource/fm-commonsys
 git clone https://github.com/TRINKET-ANDROID/platform_vendor_qcom_opensource_libfmjni.git -b 10.0 vendor/qcom/opensource/libfmjni
-git clone https://github.com/TRINKET-ANDROID/platform_device_xiaomi_ginkgo.git -b 10.0 device/xiaomi/ginkgo
-git clone https://github.com/TRINKET-ANDROID/platform_vendor_xiaomi_ginkgo.git -b 10.0 vendor/xiaomi/ginkgo
+git clone https://github.com/TRINKET-ANDROID/android_device_xiaomi_ginkgo.git -b 10.0 device/xiaomi/ginkgo
+git clone https://github.com/TRINKET-ANDROID/android_vendor_xiaomi_ginkgo.git -b 10.0 vendor/xiaomi/ginkgo
 git clone https://github.com/TheHitMan7/android_kernel_sm8150.git -b mainline kernel/xiaomi/ginkgo
 git clone https://github.com/TheHitMan7/clang.git -b master prebuilts/clang/host/linux-x86/clang-r377782d
 git clone https://github.com/TRINKET-ANDROID/platform_ota_build.git -b master platform_ota_build
 git clone https://github.com/syberia-project/official_devices.git -b master official_devices
+git clone https://github.com/TRINKET-ANDROID/vendor_miuicamera.git -b 10.0 vendor/miuicamera
